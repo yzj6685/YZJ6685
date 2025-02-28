@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**yzj6685/YZJ6685** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**自我介绍** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
